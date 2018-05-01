@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="953059" started-at="2018-04-24T08:07:23Z" finished-at="2018-04-24T08:23:16Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="953059" started-at="2018-04-24T08:07:23Z" finished-at="2018-04-24T08:23:16Z">
+      <class name="testscripts.DriverFile">
+        <test-method status="PASS" signature="runAll()[pri:0, instance:testscripts.DriverFile@735f7ae5]" name="runAll" duration-ms="953038" started-at="2018-04-24T01:07:23Z" finished-at="2018-04-24T01:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAll -->
+      </class> <!-- testscripts.DriverFile -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
